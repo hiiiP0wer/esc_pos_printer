@@ -77,7 +77,7 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
+      ref: master
       resolved-ref: "41a590d6af0a47a9a80634681aef2472223af253"
       url: "https://github.com/hiiiP0wer/esc_pos_utils.git"
     source: git
